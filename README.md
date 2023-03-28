@@ -12,12 +12,13 @@ The objective of this project is to make information related to open science res
 El objetivo de este proyecto es disponibilizar información relacionada con recursos, eventos y comunidades de ciencia abierta en América Latina a través del desarrollo de un repositorio colaborativo que recopile esta información. Este repositorio será accesible para cualquier persona que quiera saber más y quiera ponerse en contacto con otros actores regionales y locales de América Latina, o para aquellos que quieran participar en la difusión de prácticas abiertas. De esta manera, buscamos visibilizar la diversidad de iniciativas y generar redes de contacto que enriquezcan el ejercicio de la ciencia abierta en América Latina.
 
 
-## **Líderes del Projecto:**
+## **Líderes del Projecto.**
 
 * @PatriLoto
 * @4iro
 * @JFormoso
 
-## Mentor: @mxrtinez
+## Mentor.
+@mxrtinez
 
 
