@@ -14,11 +14,12 @@ El objetivo de este proyecto es disponibilizar información relacionada con recu
 
 ## **Líderes del Projecto.**
 
-* @PatriLoto
-* @4iro
-* @JFormoso
+* [Patricia Loto](https://github.com/PatriLoto))
+* Irene Vazano (@4iro)
+* Jesica Formoso (@JFormoso)
 
 ## Mentor.
-@mxrtinez
+
+[Alex Martinez](@mxrtinez)
 
 
