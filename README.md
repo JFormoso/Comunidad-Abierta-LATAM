@@ -20,6 +20,6 @@ The objective of this project is to make information related to open science res
 
 ## Mentor.
 
-[Alex Martinez](@mxrtinez)
+* [Alex Martinez](@mxrtinez)
 
 
