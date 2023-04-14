@@ -1,8 +1,8 @@
 ## ¿Quienes pueden contribuir?
 
-Todas las personas son bienvenidas a contribuir, independientemente de si recién está empezando a usar prácticas de ciencia abierta o si ya tiene más experiencia. 
+Todas las personas son bienvenidas a contribuir, independientemente de si recién están empezando a usar prácticas de ciencia abierta o si ya tienen más experiencia. 
 
-## ¿Con qué puedo colaborar?
+## ¿Cómo puedo colaborar?
 
 - Familiarízate con el objetivo del proyecto a través de la declaración de visión.
 
