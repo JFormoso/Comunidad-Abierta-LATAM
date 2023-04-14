@@ -1,4 +1,4 @@
-## ¿Quienes pueden contribuir?
+## ¿Quiénes pueden contribuir?
 
 Todas las personas son bienvenidas a contribuir, independientemente de si recién están empezando a usar prácticas de ciencia abierta o si ya tienen más experiencia. 
 
