@@ -18,7 +18,7 @@ Una vez que sepas en qué aspecto del proyecto te gustaría generar un aporte, p
   gratuita [¿Cómo contribuir a un proyecto en
   GitHub?](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
-- Añade un nuevo [issue](https://github.com/PatriLoto/first-github-collab/issues))
+- Añade un nuevo [issue](https://github.com/PatriLoto/first-github-collab/issues)
   con tus sugerencias.
 
 - Completa el siguiente formulario para sumar nuevos recursos al repositorio: https://forms.gle/Ho6UufEDyvT3ukh6A.
