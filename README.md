@@ -4,7 +4,7 @@
 
 **Nuestra visión:**
 
-El objetivo de este proyecto es disponibilizar información relacionada con recursos, eventos y comunidades de ciencia abierta en América Latina a través del desarrollo de un repositorio colaborativo que recopile esta información. Este repositorio será accesible para cualquier persona que quiera saber más y quiera ponerse en contacto con otros actores regionales y locales de América Latina, o para aquellos que quieran participar en la difusión de prácticas abiertas. De esta manera, buscamos visibilizar la diversidad de iniciativas y generar redes de contacto que enriquezcan el ejercicio de la ciencia abierta en América Latina.
+El objetivo de este proyecto es disponibilizar información relacionada con recursos, eventos y comunidades de ciencia abierta en América Latina a través del desarrollo de un repositorio colaborativo que recopile esta información. Este repositorio estará disponible para cualquier persona que quiera acceder a recursos sobre ciencia abierta y/o quiera ponerse en contacto con otros actores regionales y locales de América Latina, o para aquellos que quieran participar en la difusión de prácticas abiertas. De esta manera, buscamos visibilizar la diversidad de iniciativas y generar redes de contacto que enriquezcan el ejercicio de la ciencia abierta en América Latina.
 
 ## **Mapping open-science communities, organizations, and events in Latin America.**
 
