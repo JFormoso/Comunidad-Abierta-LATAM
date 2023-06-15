@@ -1,6 +1,8 @@
 # Speed Blog: Mapping open-science communities, organizations and events in Latin America
 #### [Jesica Formoso](https://github.com/JFormoso), [Patricia Loto](https://github.com/PatriLoto), [Irene Vazano](https://github.com/4iro)
 #### Mentor: [Alexander Martinez](https://github.com/mxrtinez)
+
+[Picture by Roberto Huczek](https://unsplash.com/es/fotos/qS8BH24w7mk)
 -----
 
 _This post summarizes our OLS journey, the project you worked on during the entire period of cohort 7, and what aur plans for the future are_
