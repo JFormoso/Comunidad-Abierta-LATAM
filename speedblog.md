@@ -42,7 +42,9 @@ At the beginning, we devoted most of our time to understanding our project as th
 Thanks to our multiple meetings with our mentor and the experts, we were able to create a strategy and plan specific actions to carry out in order to achieve our goals. Some of these are listed below: 
 
 📝Creating a monthly newsletter with content regarding open science inspired on UNESCO’s recommendations. 
-🤝Stablish collaborations with fellow communities to enhance de dissemination of the project, the collection of data, and recruiting collaborators.  
+
+🤝Stablish collaborations with fellow communities to enhance de dissemination of the project, the collection of data, and recruiting collaborators.
+
 📊 Program the application to showcase the data we collect in a way that is accessible to all potential users and contributors. 
 🎤Present our work at meetings and conferences. 
 
