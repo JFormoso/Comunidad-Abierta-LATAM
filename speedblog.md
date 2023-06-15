@@ -3,7 +3,8 @@
 #### Mentor: [Alexander Martinez](https://github.com/mxrtinez)
 #### Website: https://ciencia-abierta-en-latinoamerica.netlify.app/
 
-[Picture by Roberto Huczek](https://unsplash.com/es/fotos/qS8BH24w7mk)
+[](roberto-huczek-qS8BH24w7mk-unsplash.jpg)
+_Picture by Roberto Huczek
 -----
 
 _This post summarizes our OLS journey, the project you worked on during the entire period of cohort 7, and what aur plans for the future are_
