@@ -1,6 +1,7 @@
 # Speed Blog: Mapping open-science communities, organizations and events in Latin America
 #### [Jesica Formoso](https://github.com/JFormoso), [Patricia Loto](https://github.com/PatriLoto), [Irene Vazano](https://github.com/4iro)
 #### Mentor: [Alexander Martinez](https://github.com/mxrtinez)
+#### Website: https://ciencia-abierta-en-latinoamerica.netlify.app/
 
 [Picture by Roberto Huczek](https://unsplash.com/es/fotos/qS8BH24w7mk)
 -----
