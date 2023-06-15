@@ -4,8 +4,7 @@
 #### Website: https://ciencia-abierta-en-latinoamerica.netlify.app/
 
 ![roberto-huczek-qS8BH24w7mk-unsplash](https://github.com/JFormoso/Comunidad-Abierta-LATAM/assets/32418102/62c5e32b-15c1-49b6-942c-8a4a7f3792be)
-
-_Picture by Roberto Huczek
+_Picture by Roberto Huczek_
 -----
 
 _This post summarizes our OLS journey, the project you worked on during the entire period of cohort 7, and what aur plans for the future are_
