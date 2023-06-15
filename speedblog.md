@@ -3,7 +3,7 @@
 #### Mentor: [Alexander Martinez](https://github.com/mxrtinez)
 -----
 
-_This post summarizes our OLS journey, the project you worked on during the entire period of cohort 7, and what aree plans for the future are_
+_This post summarizes our OLS journey, the project you worked on during the entire period of cohort 7, and what aur plans for the future are_
 
 ----
 
