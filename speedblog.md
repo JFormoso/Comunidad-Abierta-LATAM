@@ -3,7 +3,8 @@
 #### Mentor: [Alexander Martinez](https://github.com/mxrtinez)
 #### Website: https://ciencia-abierta-en-latinoamerica.netlify.app/
 
-[](roberto-huczek-qS8BH24w7mk-unsplash.jpg)
+![roberto-huczek-qS8BH24w7mk-unsplash](https://github.com/JFormoso/Comunidad-Abierta-LATAM/assets/32418102/62c5e32b-15c1-49b6-942c-8a4a7f3792be)
+
 _Picture by Roberto Huczek
 -----
 
