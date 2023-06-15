@@ -29,13 +29,15 @@ We, therefore, had a concept but had no idea what we needed to learn, what to do
 
 We were encouraged to take our project to OLS by Melissa Black from MetaDocencia, who was involved with a similar initiative at the time. 
 
-_Expectation:_ We expected to learn how to develop a project such as ours, how to make it grow, and how to increase its visibility.
+### Expectation
 
-_Key understandings and accomplishments:_ 
+We expected to learn how to develop a project such as ours, how to make it grow, and how to increase its visibility.
+
+### Key understandings and accomplishments 
 
 At the beginning, we devoted most of our time to understanding our project as the creation of a product and identifying who its users would be. We realized that a product without users had no hope of surviving, so together with our mentor, Alexander Martinez, we worked on defining the potential users, their needs, and how we could help them achieve their goals. Essentially, we focused on determining the value of our product. Then we defined our vision, mission, and project roadmaps that would guide our work. From our meetings with the mentor and the experts, Anelda Van der Walt and Jo Havemman, we gained important insights into the challenges we would face regarding the dissemination and visibility of the project, the engagement of potential contributors, and how this would impact the sustainability of the project. We defined how we would showcase the information in the repository in order for it to be accessible to people with no specific technical knowledge, and we established different ways others could contribute to the project by creating guidelines and a code of conduct. 
 
-### Next steps:
+### Next steps
 
 Thanks to our multiple meetings with our mentor and the experts, we were able to create a strategy and plan specific actions to carry out in order to achieve our goals. Some of these are listed below: 
 
