@@ -46,6 +46,7 @@ Thanks to our multiple meetings with our mentor and the experts, we were able to
 🤝Stablish collaborations with fellow communities to enhance de dissemination of the project, the collection of data, and recruiting collaborators.
 
 📊 Program the application to showcase the data we collect in a way that is accessible to all potential users and contributors. 
+
 🎤Present our work at meetings and conferences. 
 
 ### Staying connected
