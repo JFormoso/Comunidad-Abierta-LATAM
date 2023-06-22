@@ -7,11 +7,11 @@
 Picture by Roberto Huczek
 -----
 
-_This post summarizes our OLS journey, the project we worked on during the entire period of cohort 7, and what aur plans for the future are_
+_This post summarizes our OLS journey, the project we worked on during the entire period of cohort 7, and what our plans for the future are_
 
 ----
 
-## Project Background and motivation
+## Project Background and Motivation
 
 As the benefits of open science become increasingly evident, we believe it is crucial to foster its adoption and support the development of open science practitioners in Latin America. This project was born out of our desire to orient our practice towards open science and the struggles we faced while doing so. The three of us come from very different backgrounds but faced the same challenges: we were having difficulties finding people in our discipline that could help us make our work open, generating connections with groups or communities with similar goals, as well as accessing resources in our language that were applicable locally. During our attempts, we recognized the need for a centralized hub of information useful not only to us but that could potentially help other individuals and communities by:
 
@@ -39,7 +39,7 @@ We expected to learn how to develop a project such as ours, how to make it grow,
 
 ### Key understandings and accomplishments 
 
-At the beginning, we devoted most of our time to understanding our project as the creation of a product and identifying who its users would be. We realized that a product without users had no hope of surviving, so together with our mentor, Alexander Martinez, we worked on defining the potential users, their needs, and how we could help them achieve their goals. Essentially, we focused on determining the value of our product. Then we defined our vision, mission, and project roadmaps that would guide our work. From our meetings with the mentor and the experts, Anelda Van der Walt and Jo Havemman, we gained important insights into the challenges we would face regarding the dissemination and visibility of the project, the engagement of potential contributors, and how this would impact the sustainability of the project. We defined how we would showcase the information in the repository in order for it to be accessible to people with no specific technical knowledge, and we established different ways others could contribute to the project by creating guidelines and a code of conduct. 
+At the beginning, we devoted most of our time to understanding our project as the creation of a product and identifying who its users would be. We realized that a product without users had no hope of surviving, so together with our mentor, Alexander Martinez, we worked on defining the potential users, their needs, and how we could help them achieve their goals. Essentially, we focused on determining the [value of our product](). Then we defined our [vision, mission](), and project [roadmaps]() that would guide our work. From our meetings with the mentor and the experts, Anelda Van der Walt and Jo Havemman, we gained important insights into the challenges we would face regarding the dissemination and visibility of the project, the engagement of potential contributors, and how this would impact the sustainability of the project. We defined how we would showcase the information in the repository in order for it to be accessible to people with no specific technical knowledge, and we established different ways others could contribute to the project by creating guidelines and a code of conduct. 
 
 ### Next steps
 
